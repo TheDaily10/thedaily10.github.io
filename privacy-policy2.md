@@ -1,9 +1,3 @@
-layout: page
-title: "Privacy Policy"
-permalink: /privacy-policy
-
-
-
 # Privacy Policy for The Daily 10
 
 
@@ -12,7 +6,7 @@ permalink: /privacy-policy
 
 
 
-Daily 10 (“we”, “our”, or “us”) is an educational mobile application designed to provide math tutoring for high school students. This Privacy Policy explains how we collect, use, store, and protect your information when you use the Daily 10 app.
+The Daily 10 (“we”, “our”, or “us”) is an educational mobile application designed to provide math tutoring for high school students. This Privacy Policy explains how we collect, use, store, and protect your information when you use our services: [daily10.com.au](https://daily10.com.au/) (“website”) and the Daily 10 app (“app”).
 
 
 
@@ -47,7 +41,7 @@ We do **not** collect:
 We use the collected information solely to:
 
 * Authenticate users
-* Provide access to the Daily 10 app
+* Provide access to the app
 * Deliver relevant math questions and educational content
 * Manage user accounts
 

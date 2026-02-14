@@ -6,9 +6,18 @@ Make a habit of doing just 10 simple math questions each day. This is the founda
 
 ## Get The App
 
-For iOS: [App Store](https://apps.apple.com/us/app/the-daily-10/id6755408570)
+### For iOS
 
-For Android: [Google Play](https://play.google.com/store/apps/details?id=com.angelis.daily_10)
+<a href="https://apps.apple.com/us/app/the-daily-10/id6755408570"><img width="250" height="75" alt="Download on the App Store" src="https://github.com/user-attachments/assets/a668b39d-6062-4134-bae0-199c5e1204ff" /></a>
+
+### For Android
+
+<a href="https://play.google.com/store/apps/details?id=com.angelis.daily_10"><img width="250" height="75" alt="Get it on Google Play" src="https://github.com/user-attachments/assets/95969592-4332-4a23-8c78-ef96b0c92ea4" /></a>
+
+### For Windows
+
+<a href="https://apps.microsoft.com/store/detail/9NJ15VCR9H97?cid=DevShareMCLPCS"><img width="250" height="63" alt="Download from the Microsoft Store" src="https://github.com/user-attachments/assets/4c8d541b-7040-4231-8362-0d3ea7cfe119" /></a>
+
 
 
 

@@ -16,7 +16,7 @@ Make a habit of doing just 10 simple math questions each day. This is the founda
 
 ### For Windows
 
-<a href="https://apps.microsoft.com/store/detail/9NJ15VCR9H97?cid=DevShareMCLPCS"><img width="250" height="63" alt="Download from the Microsoft Store" src="https://github.com/user-attachments/assets/4c8d541b-7040-4231-8362-0d3ea7cfe119" /></a>
+<a href="https://apps.microsoft.com/detail/restricted/9NJ15VCR9H97"><img width="250" height="63" alt="Download from the Microsoft Store" src="https://github.com/user-attachments/assets/4c8d541b-7040-4231-8362-0d3ea7cfe119" /></a>
 
 
 

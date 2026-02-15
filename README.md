@@ -23,9 +23,9 @@ Make a habit of doing just 10 simple math questions each day. This is the founda
 
 ## Contact Us
 
-Email: admin@daily10.com.au
+Email - [admin@daily10.com.au](mailto:admin@daily10.com.au)
 
-Tel: +61 424717185
+Tel - +61 424 717 185
 
 24a Tulong Place, Kirrawee 2232 NSW
 
